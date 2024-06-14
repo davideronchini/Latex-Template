@@ -44,6 +44,7 @@
 \usepackage{etoolbox} % Tools for command modifications
 \usepackage{nameref} % Cross-references for names
 \usepackage{multicol} % Multi-column layout
+\usepackage{tikz} % To circle items
 \usepackage{tikz-cd} % Commutative diagrams
 \usepackage[ruled, vlined, linesnumbered]{algorithm2e} % Algorithms and pseudocode
 \usepackage{comment} % Multi-line comments
@@ -294,6 +295,9 @@
 %================================
 % SELF MADE COMMANDS
 %================================
+
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+		\node[shape=circle,draw,inner sep=1pt] (char) {#1};}}
 
 % TColorBox commands
 \newcommand{\thmbl}[2]{\begin{Theorem_blue}{#1}{}#2\end{Theorem_blue}}
