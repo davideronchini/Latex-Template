@@ -1,0 +1,6 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{Preface}{2}{chapter*.1}%
+\contentsline {chapter}{Chapter 1}{3}{chapter*.1}%
+\contentsline {section}{First Section}{3}{chapter*.1}%
+\contentsfinish 
