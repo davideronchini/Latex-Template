@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.1)  25 JUN 2024 11:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.1)  14 JUL 2024 17:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -721,6 +721,11 @@ Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
 
 ) (C:\Users\dadol\AppData\Roaming\MiKTeX\tex/latex/cancel\cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (C:\Users\dadol\AppData\Roaming\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 ) (C:\Users\dadol\AppData\Roaming\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (C:\Users\dadol\AppData\Roaming\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
@@ -1011,7 +1016,7 @@ Package: transparent 2022-10-27 v1.5 Transparency with color stacks
  (C:\Users\dadol\AppData\Roaming\MiKTeX\tex/latex/transparent\transparent-nometadata.sty
 Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
 ))
-Package hyperref Info: Option `colorlinks' set `true' on input line 101.
+Package hyperref Info: Option `colorlinks' set `true' on input line 102.
  (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
@@ -1152,7 +1157,9 @@ File: unpxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/npxsym.
 LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 13.
  (C:\Users\dadol\AppData\Roaming\MiKTeX\tex/latex/newpx\unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
-) [1
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 13.
+ (C:\Users\dadol\AppData\Roaming\MiKTeX\tex/latex/stmaryrd\ustmry.fd) [1
 
 {C:/Users/dadol/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (template.toc)
 \tf@toc=\write5
@@ -1177,24 +1184,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--24
 
 [2
 
-] [3
+]
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 41.
+
+[3
 
 ] (template.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.5pt have occurred.
+
  ) 
 Here is how much of TeX's memory you used:
- 37414 strings out of 474486
- 740712 string characters out of 5753571
+ 37660 strings out of 474486
+ 743929 string characters out of 5753571
  1946542 words of memory out of 5000000
- 59015 multiletter control sequences out of 15000+600000
- 589108 words of font info for 107 fonts, out of 8000000 for 9000
+ 59250 multiletter control sequences out of 15000+600000
+ 590128 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,11n,100p,607b,1725s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\dadol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1000.pk> <C:\Users\dadol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi720\ecbx1200.pk> <C:\Users\dadol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\dadol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\dadol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\dadol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi1244\ecbx1200.pk> <C:\Users\dadol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\dadol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi1037\ecbx1200.pk>
-Output written on template.pdf (4 pages, 63903 bytes).
+Output written on template.pdf (4 pages, 63906 bytes).
 PDF statistics:
  237 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)

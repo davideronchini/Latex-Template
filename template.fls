@@ -282,6 +282,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\cancel\cancel.sty
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\cancel\cancel.sty
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\stmaryrd\stmaryrd.sty
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\stmaryrd\stmaryrd.sty
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
@@ -471,6 +473,12 @@ INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\fonts\tfm\public\newpx\zplsyc.tfm
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\stmaryrd\ustmry.fd
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\stmaryrd\ustmry.fd
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\stmaryrd\ustmry.fd
+INPUT C:\Users\dadol\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary10.tfm
+INPUT C:\Users\dadol\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary9.tfm
+INPUT C:\Users\dadol\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary7.tfm
 INPUT C:\Users\dadol\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
@@ -512,6 +520,8 @@ INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\fonts\tfm\public\newpx\zplsyc.tfm
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
+INPUT C:\Users\dadol\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary10.tfm
+INPUT C:\Users\dadol\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary5.tfm
 INPUT template.aux
 INPUT C:\Users\dadol\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1000.pk
 INPUT C:\Users\dadol\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1000.pk
