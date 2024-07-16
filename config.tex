@@ -313,6 +313,7 @@
 % Custom commands for chapters, sections, and subsections
 \newcommand{\newchapter}[1]{%
 	\newpage
+	\phantomsection
 	\fancyhead[L]{#1}%
 	\chapter*{#1}%
 	\addcontentsline{toc}{chapter}{#1}%
@@ -320,6 +321,7 @@
 }
 
 \newcommand{\newsection}[1]{%
+	\phantomsection
 	\section*{#1}%
 	\fancyhead[R]{#1}%
 	\addcontentsline{toc}{section}{#1}%
@@ -327,12 +329,14 @@
 }
 
 \newcommand{\newsubsection}[1]{%
+	\phantomsection
 	\subsection*{#1}%
 	\addcontentsline{toc}{subsection}{#1}%
 	\thispagestyle{fancy}
 }
 
 \newcommand{\newsubsubsection}[1]{%
+	\phantomsection
 	\subsubsection*{#1}%
 	\addcontentsline{toc}{subsubsection}{#1}%
 	\thispagestyle{fancy}
