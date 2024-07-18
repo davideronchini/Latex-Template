@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1721151788.706 "c:/Users/dadol/Documents/School/Univpm/LaTeX/Latex Template/template.tex" "template.pdf" "template" 1721151791.31551 0
+["pdflatex"] 1721296977.22733 "c:/Users/dadol/Documents/School/Univpm/LaTeX/Latex Template/template.tex" "template.pdf" "template" 1721296980.02529 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993061956 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/eccc1000.tfm" 993061980 2788 9da2d2e7e17b2a98c3aa301c9668a522 ""
@@ -264,10 +264,10 @@
   "C:/Users/dadol/AppData/Roaming/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/dadol/AppData/Roaming/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "c:/Users/dadol/Documents/School/Univpm/LaTeX/Latex Template/template.tex" 1718404210 1185 29d1e4f8732063702b73a82c943a98a7 ""
-  "config.tex" 1721151785 10313 bda30fee79c8ae99188997e4065a07ef ""
-  "template.aux" 1721151790 1194 da6a687cc7250910112aca17c7272d2c "pdflatex"
+  "config.tex" 1721296976 10313 0baee3845c12c1a53c1dc5691b35b8cb ""
+  "template.aux" 1721296979 1194 da6a687cc7250910112aca17c7272d2c "pdflatex"
   "template.tex" 1718404210 1185 29d1e4f8732063702b73a82c943a98a7 ""
-  "template.toc" 1721151790 232 8ddc202e43bfb0c430fbd740c2101762 "pdflatex"
+  "template.toc" 1721296979 232 8ddc202e43bfb0c430fbd740c2101762 "pdflatex"
   (generated)
   "template.aux"
   "template.log"
