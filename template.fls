@@ -144,10 +144,13 @@ INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\wrapfig\wrapfig.sty
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\varwidth\varwidth.sty
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\varwidth\varwidth.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
@@ -313,7 +316,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex
 INPUT C:\Program Files\MiKTeX\tex\latex\tcolorbox\tcbbreakable.code.tex
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\pdfcol\pdfcol.sty
 INPUT C:\Users\dadol\AppData\Roaming\MiKTeX\tex\latex\pdfcol\pdfcol.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tcolorbox\tcbhooks.code.tex
 INPUT C:\Program Files\MiKTeX\tex\latex\tcolorbox\tcbtheorems.code.tex
 INPUT C:\Program Files\MiKTeX\tex\latex\tcolorbox\tcbfitting.code.tex
